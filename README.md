@@ -1,6 +1,7 @@
 # Botçuk Discord Botunmun Eski altyapısı
 
 Bu proje, botçuk botun sadece altyapısını içerir web panel altyapısı için diğer depoya göz atınız. 
+https://github.com/herzane52/botcuk_web_site_eski
 
 ## Yolculuğumuz 🚀
 
